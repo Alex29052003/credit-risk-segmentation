@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+openpyxl
+xlrd
+fastapi
+uvicorn
+pydantic
